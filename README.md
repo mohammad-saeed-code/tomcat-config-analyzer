@@ -12,7 +12,6 @@ This project helps you quickly evaluate a Tomcat installation by analyzing:
 
 - `server.xml`
 - `web.xml`
-- `context.xml`
 - `tomcat-users.xml`
 - Additional optional configuration files
 
