@@ -38,5 +38,4 @@ For each issue, the analyzer provides **clear explanations**, **risk context**, 
 ```bash
 git clone https://github.com/mohammad-saeed-code/tomcat-config-analyzer
 cd tomcat-config-analyzer
-pip install -r requirements.txt
 sudo python tomcat-config-analyzer tomcat_base -o <output file>
